@@ -1,27 +1,27 @@
 ---
-title: Expressive Code Example
+title: 富表现力代码示例
 published: 2024-04-10
-description: How code blocks look in Markdown using Expressive Code.
-tags: [Markdown, Blogging, Demo]
-category: Examples
+description: 使用富表现力代码时，Markdown中的代码块外观。
+tags: [Markdown, 博客, 演示]
+category: 示例
 draft: false
 ---
 
-Here, we'll explore how code blocks look using [Expressive Code](https://expressive-code.com/). The provided examples are based on the official documentation, which you can refer to for further details.
+在这里，我们将探讨使用[Expressive Code](https://expressive-code.com/)时代码块的外观。提供的示例基于官方文档，你可以参考官方文档获取更多详细信息。
 
-## Expressive Code
+## 富表现力代码（Expressive Code）
 
-### Syntax Highlighting
+### 语法高亮
 
-[Syntax Highlighting](https://expressive-code.com/key-features/syntax-highlighting/)
+[语法高亮](https://expressive-code.com/key-features/syntax-highlighting/)
 
-#### Regular syntax highlighting
+#### 常规语法高亮
 
 ```js
-console.log('This code is syntax highlighted!')
+console.log('这段代码有语法高亮！')
 ```
 
-#### Rendering ANSI escape sequences
+#### 渲染 ANSI 转义序列
 
 ```ansi
 ANSI colors:
@@ -40,11 +40,11 @@ Full RGB colors:
 Text formatting: [1mBold[0m [2mDimmed[0m [3mItalic[0m [4mUnderline[0m
 ```
 
-### Editor & Terminal Frames
+### 编辑器与终端框架
 
 [Editor & Terminal Frames](https://expressive-code.com/key-features/frames/)
 
-#### Code editor frames
+#### 代码编辑器框架
 
 ```js title="my-test-file.js"
 console.log('Title attribute example')
@@ -57,7 +57,7 @@ console.log('Title attribute example')
 <div>File name comment example</div>
 ```
 
-#### Terminal frames
+#### 终端框架
 
 ```bash
 echo "This terminal frame has no title"
