@@ -1,4 +1,4 @@
-# About
+# 关于
 这个博客的主题是 [Fuwari](https://github.com/saicaca/fuwari).
 
 ::github{repo="saicaca/fuwari"}
