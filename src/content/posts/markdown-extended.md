@@ -4,7 +4,7 @@ published: 2024-05-01
 updated: 2024-11-29
 description: '在 Fuwari 中了解更多关于 Markdown 的功能'
 image: ''
-tags: [Demo, 示例, Markdown, Fuwari]
+tags: [演示, 示例, Markdown, Fuwari]
 category: '示例'
 draft: false 
 ---
