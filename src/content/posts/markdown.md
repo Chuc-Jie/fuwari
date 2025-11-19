@@ -1,25 +1,25 @@
 ---
-title: Markdown Example
+title: Markdown示例
 published: 2023-10-01
-description: A simple example of a Markdown blog post.
+description: Markdown博客文章的一个简单示例。
 tags: [Markdown, Blogging, 演示]
-category: Examples
+category: 示例
 draft: false
 ---
 
-# An h1 header
+# h1标题
 
-Paragraphs are separated by a blank line.
+段落之间用空行隔开。
 
 2nd paragraph. _Italic_, **bold**, and `monospace`. Itemized lists
 look like:
 
-- this one
-- that one
-- the other one
+- 这个
+- 那个
+- 另一个
 
-Note that --- not considering the asterisk --- the actual text
-content starts at 4-columns in.
+请注意 --- 不考虑星号 --- 实际文本
+内容从中的4列开始。
 
 > Block quotes are
 > written like so.
@@ -27,26 +27,26 @@ content starts at 4-columns in.
 > They can span multiple paragraphs,
 > if you like.
 
-Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex., "it's all
-in chapters 12--14"). Three dots ... will be converted to an ellipsis.
-Unicode is supported. ☺
+使用3个破折号表示em破折号。使用2个破折号表示范围（例如，“这就是全部”
+第12-14章“）。三个点…将转换为省略号。
+支持Unicode。 ☺
 
-## An h2 header
+## h2标题
 
-Here's a numbered list:
+这是一个编号的列表：
 
-1. first item
-2. second item
-3. third item
+1. 第一项
+2. 第二项
+3. 第三项
 
-Note again how the actual text starts at 4 columns in (4 characters
-from the left side). Here's a code sample:
+再次注意实际文本是如何从（4个字符）中的4列开始的
+从左侧）。下面是一个代码示例：
 
     # Let me re-iterate ...
     for i in 1 .. 10 { do-something(i) }
 
-As you probably guessed, indented 4 spaces. By the way, instead of
-indenting the block, you can use delimited blocks, if you like:
+正如你可能猜到的，缩进4个空格。顺便说一句，而不是
+如果愿意，可以使用分隔块缩进块：
 
 ```
 define foobar() {
@@ -54,8 +54,8 @@ define foobar() {
 }
 ```
 
-(which makes copying & pasting easier). You can optionally mark the
-delimited block for Pandoc to syntax highlight it:
+（这使得复制和粘贴更容易）。您可以选择标记
+Pandoc的分隔块用于语法突出显示它：
 
 ```python
 import time
@@ -100,15 +100,15 @@ doc](#an-h2-header). Here's a footnote [^1].
 
 [^1]: Footnote text goes here.
 
-Tables can look like this:
+表格可以如下所示：
 
-size material color
+尺寸材料颜色
 
 ---
 
-9 leather brown
-10 hemp canvas natural
-11 glass transparent
+9棕色皮革
+10天然麻帆布
+11透明玻璃
 
 Table: Shoes, their sizes, and what they're made of
 
