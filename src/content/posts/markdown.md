@@ -11,8 +11,8 @@ draft: false
 
 段落之间用空行隔开。
 
-2nd paragraph. _Italic_, **bold**, and `monospace`. Itemized lists
-look like:
+第2段。_Italic_、**粗体**和`monospace`。逐项列表
+看起来像：
 
 - 这个
 - 那个
@@ -21,11 +21,11 @@ look like:
 请注意 --- 不考虑星号 --- 实际文本
 内容从中的4列开始。
 
-> Block quotes are
-> written like so.
->
-> They can span multiple paragraphs,
-> if you like.
+> 区块引号是
+> 这样写的。
+> 
+> 它们可以跨越多个段落，
+> 如果你愿意的话。
 
 使用3个破折号表示em破折号。使用2个破折号表示范围（例如，“这就是全部”
 第12-14章“）。三个点…将转换为省略号。
@@ -66,20 +66,20 @@ for i in range(10):
     print i
 ```
 
-### An h3 header
+### h3标题
 
-Now a nested list:
+现在是嵌套列表：
 
-1. First, get these ingredients:
+1. 首先，获取这些成分：
 
     - carrots
     - celery
     - lentils
 
-2. Boil some water.
+2. 煮一些水。
 
-3. Dump everything in the pot and follow
-    this algorithm:
+3. 将所有内容倒入锅中并遵循
+    这个算法：
 
         find wooden spoon
         uncover pot

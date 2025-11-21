@@ -7,7 +7,7 @@ category: Examples
 draft: false
 ---
 
-Just copy the embed code from YouTube or other platforms, and paste it in the markdown file.
+只需从YouTube或其他平台复制嵌入代码，并将其粘贴到标记文件中。
 
 ```yaml
 ---

@@ -9,7 +9,7 @@ category: '示例'
 draft: false 
 ---
 
-## GitHub Repository Cards
+## GitHub 仓库卡片
 你可以添加链接到 GitHub 仓库的动态卡片，在页面加载时，仓库信息会从 GitHub API 获取。
 
 ::github{repo="Fabrizz/MMM-OnSpotify"}
@@ -20,7 +20,7 @@ draft: false
 ::github{repo="saicaca/fuwari"}
 ```
 
-## Admonitions
+## 警告
 
 支持以下类型的警告: `note` `tip` `important` `warning` `caution`
 
@@ -44,7 +44,7 @@ draft: false
 某个行为可能带来的负面后果。
 :::
 
-### Basic Syntax
+### 基本语法
 
 ```markdown
 :::note
@@ -56,7 +56,7 @@ draft: false
 :::
 ```
 
-### Custom Titles
+### 自定义标题
 
 警告的标题可以自定义。
 
@@ -70,7 +70,7 @@ draft: false
 :::
 ```
 
-### GitHub Syntax
+### GitHub 语法
 
 > [!TIP]
 > [The GitHub syntax](https://github.com/orgs/community/discussions/16925) is also supported.
@@ -83,7 +83,7 @@ draft: false
 > GitHub 语法也受支持。
 ```
 
-### Spoiler
+### 剧透
 
 你可以在文本中添加剧透。文本还支持 **Markdown** 语法。
 
